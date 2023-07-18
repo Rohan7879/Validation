@@ -1,0 +1,8 @@
+{
+  "importCost.debug": true,
+  "importCost.fontStyle": "italic",
+  "importCost.svelteExtensions": ["\\.svelte$"],
+  "importCost.bundleSizeColoring": "compressed",
+  "importCost.typescriptExtensions": ["\\.tsx?$"],
+  "importCost.showCalculatingDecoration": true
+}

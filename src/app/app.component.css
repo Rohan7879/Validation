@@ -1,0 +1,78 @@
+
+  .example-form {
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  .mat-form-field {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .error-message {
+    color: red;
+    margin-bottom: 10px;
+  }
+  
+  .error {
+    color: red;
+    margin-bottom: 10px;
+  }
+  
+  .mat-radio-group {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .mat-checkbox {
+    margin-right: 10px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+  }
+
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+
+  thead {
+    background-color: #333;
+    color: #fff;
+  }
+
+  tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  tbody tr:hover {
+    background-color: #ddd;
+  }
+
+  th {
+    background-color: #555;
+  }
+  .container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f1dcf7;
+  }
+  .error{
+    color: red;
+  }
+  .error-message {
+    color: red;
+    margin-top: 5px;
+  } 
